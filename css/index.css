@@ -8,7 +8,7 @@ nav.floating {
 }
 
 .first-view {
-    height: calc(200vh - 110px);
+    height: calc(100vh - 110px);
     background-image: url(../images/index/grand_zero.png);
     background-repeat: no-repeat;
     background-position: center center;
