@@ -112,6 +112,10 @@ img {
 }
 
 @media (max-width: 800px) {
+    .first-view {
+        background-size: contain;
+    }
+
     .site-menu ul {
         display: block;
         text-align: center;
