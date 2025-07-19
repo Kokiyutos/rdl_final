@@ -14,12 +14,16 @@
 }
 
 .title h1 {
+    text-shadow: 1px 1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,-1px -1px 0 #000;
+    color: #fff;
     font-family: "Montserrat", sans-serif;
     font-size: 32pt;
     font-weight: bold;
 }
 
 .title p {
+    text-shadow: 1px 1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,-1px -1px 0 #000;
+    color: #fff;
     font-size: 14pt;
     margin-top: 15px;
 }
